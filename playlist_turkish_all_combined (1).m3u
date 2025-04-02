@@ -65,3 +65,45 @@ http://premium-play.org:8000/saidclt201/XmQat4ju/2832
 
 #EXTINF:-1 tvg-id="beINMoviesDrama.tr" tvg-name="beIN Movies Drama HD" group-title="Filme",beIN Movies Drama HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/2833
+
+
+
+# --- Zusätzliche Türkische Live-TV-Sender in Full HD ---
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" group-title="Nachrichten",NTV HD
+https://ntv-live.ercdn.net/ntv/ntv_1080p.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk HD" group-title="Nachrichten",CNN Türk HD
+https://cnn-live.ercdn.net/cnnturk/cnnturk_1080p.m3u8
+#EXTINF:-1 tvg-id="HaberTurk.tr" tvg-name="Haber Türk HD" group-title="Nachrichten",Haber Türk HD
+https://haberturk-live.ercdn.net/haberturk/haberturk_1080p.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT HD" group-title="Wirtschaft",Bloomberg HT HD
+https://bloomberght-live.ercdn.net/bloomberght/bloomberght_1080p.m3u8
+#EXTINF:-1 tvg-id="KRALTV.tr" tvg-name="Kral TV HD" group-title="Musik",Kral TV HD
+https://kral-live.ercdn.net/kraltv/kraltv_1080p.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Türk HD" group-title="Musik",Dream Türk HD
+https://dreamturk-live.ercdn.net/dreamturk/dreamturk_1080p.m3u8
+#EXTINF:-1 tvg-id="TV8Int.tr" tvg-name="TV8 Int HD" group-title="Unterhaltung",TV8 Int HD
+https://tv8int-live.ercdn.net/tv8int/tv8int_1080p.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Turk HD" group-title="Unterhaltung",Show Turk HD
+https://showturk-live.ercdn.net/showturk/showturk_1080p.m3u8
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="Euro Star HD" group-title="Unterhaltung",Euro Star HD
+https://eurostar-live.ercdn.net/eurostar/eurostar_1080p.m3u8
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa HD" group-title="Unterhaltung",Kanal 7 Avrupa HD
+https://kanal7avrupa-live.ercdn.net/kanal7avrupa/kanal7avrupa_1080p.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV HD" group-title="Nachrichten",Halk TV HD
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-id="CemTV.tr" tvg-name="Cem TV HD" group-title="Unterhaltung",Cem TV HD
+https://cemtv-live.ercdn.net/cemtv/cemtv_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk HD" group-title="Nachrichten",TRT Türk HD
+https://trtturk-live.ercdn.net/trtturk/trtturk_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World HD" group-title="Nachrichten",TRT World HD
+https://trtworld-live.ercdn.net/trtworld/trtworld_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTMusic.tr" tvg-name="TRT Müzik HD" group-title="Musik",TRT Müzik HD
+https://trtmuzik-live.ercdn.net/trtmuzik/trtmuzik_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTChild.tr" tvg-name="TRT Çocuk HD" group-title="Kinder",TRT Çocuk HD
+https://trtcocuk-live.ercdn.net/trtcocuk/trtcocuk_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTNews.tr" tvg-name="TRT Haber HD" group-title="Nachrichten",TRT Haber HD
+https://trthaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel HD" group-title="Dokumentation",TRT Belgesel HD
+https://trtbelgesel-live.ercdn.net/trtbelgesel/trtbelgesel_1080p.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT 3 HD" group-title="Unterhaltung",TRT 3 HD
+https://trt3-live.ercdn.net/trt3/trt3_1080p.m3u8

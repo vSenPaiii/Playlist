@@ -1,0 +1,67 @@
+#EXTM3U
+
+# --- Türkische Live-TV-Sender in Full HD ---
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" group-title="Türkisch",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV HD" group-title="Türkisch",Show TV HD
+https://showtv-live.ercdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" group-title="Türkisch",ATV HD
+https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV HD" group-title="Türkisch",Star TV HD
+https://startv-live.ercdn.net/startv/startv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD" group-title="Türkisch",Kanal D HD
+https://kanald-live.ercdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" group-title="Türkisch",TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D HD" group-title="Türkisch",Euro D HD
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2 HD" group-title="Türkisch",TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 HD" group-title="Türkisch",Kanal 7 HD
+https://kanal7-live.ercdn.net/kanal7/kanal7_1080p.m3u8
+
+# --- Türkische Sportsender in Full HD ---
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor HD" group-title="Sport",TRT Spor HD
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor HD" group-title="Sport",A Spor HD
+https://aspor-live.ercdn.net/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN Sports 1 HD" group-title="Sport",beIN Sports 1 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/2826
+
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN Sports 2 HD" group-title="Sport",beIN Sports 2 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/2827
+
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN Sports 3 HD" group-title="Sport",beIN Sports 3 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/2828
+
+# --- Türkische Filmkanäle in Full HD ---
+#EXTINF:-1 tvg-id="YesilcamTV.tr" tvg-name="Yeşilçam TV HD" group-title="Filme",Yeşilçam TV HD
+https://yesilcamtv-live.ercdn.net/yesilcamtv/yesilcamtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TurkSinemasi.tr" tvg-name="Türk Sineması HD" group-title="Filme",Türk Sineması HD
+https://turksinemasi-live.ercdn.net/turksinemasi/turksinemasi_1080p.m3u8
+
+#EXTINF:-1 tvg-id="FilmTV.tr" tvg-name="Film TV HD" group-title="Filme",Film TV HD
+https://filmtv-live.ercdn.net/filmtv/filmtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Türk HD" group-title="Filme",beIN Movies Türk HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/2830
+
+#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="beIN Movies Action HD" group-title="Filme",beIN Movies Action HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/2831
+
+#EXTINF:-1 tvg-id="beINMoviesComedy.tr" tvg-name="beIN Movies Comedy HD" group-title="Filme",beIN Movies Comedy HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/2832
+
+#EXTINF:-1 tvg-id="beINMoviesDrama.tr" tvg-name="beIN Movies Drama HD" group-title="Filme",beIN Movies Drama HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/2833
